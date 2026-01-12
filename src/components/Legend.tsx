@@ -6,7 +6,7 @@ interface LegendProps {
   title?: string;
 }
 
-export function Legend({ title = '📊 Skor Açıklaması' }: LegendProps) {
+export function Legend({ title = 'Skor Açıklaması' }: LegendProps) {
   return (
     <div className="bg-white rounded-lg sm:rounded-xl shadow-sm sm:shadow-md p-4 sm:p-6 mt-4 sm:mt-6 border border-gray-100">
       <h3 className="font-bold text-lg text-gray-900 mb-3 sm:mb-4">{title}</h3>
