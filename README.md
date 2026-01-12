@@ -2,7 +2,7 @@
 
 ## Canlı Demo
 
-🚀 **[https://com-digital-task.vercel.app/](https://com-digital-task.vercel.app/)**
+**[https://com-digital-task.vercel.app/](https://com-digital-task.vercel.app/)**
 
 ## Genel Bakış
 
