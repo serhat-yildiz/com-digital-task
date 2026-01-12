@@ -1,5 +1,9 @@
 # RFM Müşteri Segmentasyon Uygulaması
 
+## Canlı Demo
+
+🚀 **[https://com-digital-task.vercel.app/](https://com-digital-task.vercel.app/)**
+
 ## Genel Bakış
 
 RFM (Recency-Frequency-Monetary) analizi yaparak müşteri segmentasyonunu görsel bir grid arayüzü üzerinde gösteren React ve Next.js uygulaması. Müşterileri satın alma davranışlarına göre sınıflandırıp analiz edebilirsiniz.
